@@ -1,9 +1,9 @@
 # 👋 Hey there!
 
-![Profile Views](https://komarev.com/ghpvc/?username=Akihito44\&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=Akihito\&style=flat-square)
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=flat-square\&logo=github)](https://github.com/Akihito44)
+[![Instagram](https://img.shields.io/badge/Instagram-Profile-orange?style=flat-square\&logo=instagram)](https://www.instagram.com/archi_mede_/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square\&logo=linkedin)](https://www.linkedin.com/in/nicolo-tesoro/)
-[![Instagram](https://img.shields.io/badge/Instagram-Profile-orange?style=flat-square\&logo=instagram)](https://www.instagram.com/)
 
 ---
 
@@ -25,7 +25,6 @@ I’m currently looking for entry-level opportunities as a **Junior Developer**,
 
 ## 🧠 Interests & Study Areas
 
-* **Programming:** C, C++, Python, Java
 * **Operating Systems & SysAdmin**
 * **Networking, Protocols, and Cybersecurity**
 * **Automation, Control, and Embedded Systems**
@@ -33,9 +32,7 @@ I’m currently looking for entry-level opportunities as a **Junior Developer**,
 
 ---
 
-## 🛠️ Technical Skills
-
-### 🧩 Languages
+## 🛠️ Languages & Tools
 
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square\&logo=c\&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square\&logo=cplusplus\&logoColor=white)
@@ -45,9 +42,6 @@ I’m currently looking for entry-level opportunities as a **Junior Developer**,
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square\&logo=javascript\&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square\&logo=php\&logoColor=white)
-
-### 🖥️ Tools & Platforms
-
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square\&logo=linux\&logoColor=black)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square\&logo=windows\&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git\&logoColor=white)
@@ -55,8 +49,4 @@ I’m currently looking for entry-level opportunities as a **Junior Developer**,
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square\&logo=visualstudiocode\&logoColor=white)
 ![Arduino IDE](https://img.shields.io/badge/Arduino_IDE-00979D?style=flat-square\&logo=arduino\&logoColor=white)
 ![MSYS2](https://img.shields.io/badge/MSYS2-3E3E3E?style=flat-square\&logo=msys2\&logoColor=white)
-
-### 🧱 Other
-
-* Basic understanding of **containerization** (Docker)
-* Experience with **home lab environments** and service management
+![Docker](https://img.shields.io/badge/docker-257bd6?style=for-the-badge&logo=docker&logoColor=white)
