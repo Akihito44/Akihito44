@@ -1,32 +1,62 @@
-# Hey there! 👋
+# 👋 Hey there!
 
-## 👨‍💻 About me
-I’m **Nicolò Tesoro**, a Computer Engineering student based in Italy.  
-I’m passionate about information systems, cybersecurity, and software development.  
-I am currently looking for opportunities as a **Junior Developer**, **Junior System Administrator**, or **IT Support Technician**.
-
----
-
-## 🚀 Current activities
-
-- Developing personal projects related to systems, networking, and programming
-- Maintaining my home lab and its client/server services
-- Exploring new technologies by building and iterating on real projects
+![Profile Views](https://komarev.com/ghpvc/?username=Akihito44\&style=flat-square)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=flat-square\&logo=github)](https://github.com/Akihito44)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square\&logo=linkedin)](https://www.linkedin.com/in/nicolo-tesoro/)
+[![Instagram](https://img.shields.io/badge/Instagram-Profile-orange?style=flat-square\&logo=instagram)](https://www.instagram.com/)
 
 ---
 
-## 🧠 Areas of study and interest
+## 👨‍💻 About Me
 
-- Programming (C, C++, Python, Java)
-- Operating systems, system administration, and scripting
-- Networking, protocols, and cybersecurity
-- Automation, control, and embedded systems
-- Applications and use cases of artificial intelligence
+Hi! I'm **Nicolò Tesoro**, a Computer Engineering student from Italy.
+I have a strong passion for **information systems**, **cybersecurity**, and **software development**.
+I’m currently looking for entry-level opportunities as a **Junior Developer**, **Junior System Administrator**, or **IT Support Technician**.
 
 ---
 
-## 🛠️ Technical skills
+## 🚀 What I’m Working On
 
-- **Languages**: C, C++, Python, Java, Bash, JavaScript, SQL, PHP
-- **Tools & Platforms**: Linux, Windows, Git, GitHub, Arduino IDE, MSYS2, Visual Studio Code
-- **Other**: Basic knowledge of containerization (Docker)
+* Building personal projects in systems programming, networking, and automation
+* Running and maintaining my own **home lab**, including client/server services
+* Exploring new technologies and improving my skills through real-world practice
+
+---
+
+## 🧠 Interests & Study Areas
+
+* **Programming:** C, C++, Python, Java
+* **Operating Systems & SysAdmin**
+* **Networking, Protocols, and Cybersecurity**
+* **Automation, Control, and Embedded Systems**
+* **Artificial Intelligence & Practical Applications**
+
+---
+
+## 🛠️ Technical Skills
+
+### 🧩 Languages
+
+![C](https://img.shields.io/badge/C-00599C?style=flat-square\&logo=c\&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square\&logo=cplusplus\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square\&logo=openjdk\&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-121011?style=flat-square\&logo=gnubash\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square\&logo=javascript\&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square\&logo=php\&logoColor=white)
+
+### 🖥️ Tools & Platforms
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square\&logo=linux\&logoColor=black)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square\&logo=windows\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square\&logo=github\&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square\&logo=visualstudiocode\&logoColor=white)
+![Arduino IDE](https://img.shields.io/badge/Arduino_IDE-00979D?style=flat-square\&logo=arduino\&logoColor=white)
+![MSYS2](https://img.shields.io/badge/MSYS2-3E3E3E?style=flat-square\&logo=msys2\&logoColor=white)
+
+### 🧱 Other
+
+* Basic understanding of **containerization** (Docker)
+* Experience with **home lab environments** and service management
