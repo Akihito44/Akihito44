@@ -1,6 +1,6 @@
 # 👋 Hey there!
 
-![Profile Views](https://komarev.com/ghpvc/?username=Akihito\&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=akihito44\&style=flat-square)
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=flat-square\&logo=github)](https://github.com/Akihito44)
 [![Instagram](https://img.shields.io/badge/Instagram-Profile-orange?style=flat-square\&logo=instagram)](https://www.instagram.com/archi_mede_/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square\&logo=linkedin)](https://www.linkedin.com/in/nicolo-tesoro/)
@@ -49,4 +49,4 @@ I’m currently looking for entry-level opportunities as a **Junior Developer**,
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square\&logo=visualstudiocode\&logoColor=white)
 ![Arduino IDE](https://img.shields.io/badge/Arduino_IDE-00979D?style=flat-square\&logo=arduino\&logoColor=white)
 ![MSYS2](https://img.shields.io/badge/MSYS2-3E3E3E?style=flat-square\&logo=msys2\&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-257bd6?style=for-the-badge&logo=docker&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-257bd6?style=flay-square\&logo=docker\&logoColor=white)
