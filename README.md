@@ -1,6 +1,6 @@
 # 👋 Hey there!
 
-![Profile Views](https://komarev.com/ghpvc/?username=akihito44\&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=akihito4\&style=flat-square)
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=flat-square\&logo=github)](https://github.com/Akihito44)
 [![Instagram](https://img.shields.io/badge/Instagram-Profile-orange?style=flat-square\&logo=instagram)](https://www.instagram.com/archi_mede_/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square\&logo=linkedin)](https://www.linkedin.com/in/nicolo-tesoro/)
