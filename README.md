@@ -1,6 +1,6 @@
 # 👋 Hey there!
 
-![Profile Views](https://komarev.com/ghpvc/?username=akihito4\&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=archi-med3\&style=flat-square)
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=flat-square\&logo=github)](https://github.com/Akihito44)
 [![Instagram](https://img.shields.io/badge/Instagram-Profile-orange?style=flat-square\&logo=instagram)](https://www.instagram.com/archi_mede_/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square\&logo=linkedin)](https://www.linkedin.com/in/nicolo-tesoro/)
@@ -9,7 +9,7 @@
 
 ## 👨‍💻 About Me
 
-Hi! I'm **Nicolò Tesoro**, a Computer Engineering student from Italy.
+Hi! I'm **Archi_Mede_**, a Computer Engineering student from Italy.
 I have a strong passion for **information systems**, **cybersecurity**, and **software development**.
 I’m currently looking for entry-level opportunities as a **Junior Developer**, **Junior System Administrator**, or **IT Support Technician**.
 
