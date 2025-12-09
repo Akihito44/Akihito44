@@ -2,8 +2,9 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=archi-med3\&style=flat-square)
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=flat-square\&logo=github)](https://github.com/Akihito44)
-[![Instagram](https://img.shields.io/badge/Instagram-Profile-orange?style=flat-square\&logo=instagram)](https://www.instagram.com/archi_mede_/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Website-4CAF50?style=flat-square&logo=firefox-browser&logoColor=white)](http://archi-mede.xyz/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square\&logo=linkedin)](https://www.linkedin.com/in/nicolo-tesoro/)
+[![Instagram](https://img.shields.io/badge/Instagram-Profile-orange?style=flat-square\&logo=instagram)](https://www.instagram.com/archi_mede_/)
 
 ---
 
